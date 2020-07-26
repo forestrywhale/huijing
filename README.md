@@ -1,4 +1,4 @@
-Your site is ready to be published at https://kikyo91.github.io/huijing/.
+Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=cHQeS6KeO60JS3YJ5fPhOBw7IMaELRQE9cXyIPsFh_c&cl=ffffff&w=a"></script>
 
