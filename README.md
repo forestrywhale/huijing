@@ -1,5 +1,6 @@
 Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
-<a class="twitter-timeline" data-height="700px" href="https://twitter.com/TwitterOSS?ref_src=twsrc%5Etfw">Tweets by TwitterOSS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-height="700px" href="https://twitter.com/Huijingwang91">Tweets by Huijing</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=cHQeS6KeO60JS3YJ5fPhOBw7IMaELRQE9cXyIPsFh_c&cl=ffffff&w=a"></script>
 
