@@ -1,5 +1,7 @@
 Your site is ready to be published at https://kikyo91.github.io/huijing/.
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=cHQeS6KeO60JS3YJ5fPhOBw7IMaELRQE9cXyIPsFh_c&cl=ffffff&w=a"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kikyo91/huijing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
