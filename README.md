@@ -12,7 +12,7 @@
         <ul class="nav-menu">
             <!-- This link only exists in mobile -->
             <li id="extra-mobile-link" class="nav-list-item">
-                <a class="nav-link" href="/twitter">Twitter Open Source</a>
+                <a class="nav-link" href="/twitter.html">Twitter Open Source</a>
             </li>
 
             <li class="nav-list-item">
