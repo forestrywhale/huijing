@@ -1,10 +1,30 @@
-<li id="extra-mobile-link" class="nav-list-item">
-    <a class="nav-link" href="/">Twitter Open Source</a>
-</li>
+<ul class="nav-menu">
+            <!-- This link only exists in mobile -->
+            <li id="extra-mobile-link" class="nav-list-item">
+                <a class="nav-link" href="/">Twitter Open Source</a>
+            </li>
 
-<li id="extra-mobile-link" class="nav-list-item">
-    <a class="nav-link" href="https://github.com/kikyo91/Python-Gallery/blob/master/1-PCA%203D%20graph.ipynb">Twitter Open Source</a>
-</li>
+            <li class="nav-list-item">
+                <a class="nav-link" href="/projects">Projects</a>
+            </li>
+
+            <li class="nav-list-item">
+                <a class="nav-link" href="/memberships">#Squad</a>
+            </li>
+
+            <li class="nav-list-item">
+                <a class="nav-link" href="/year-in-review">Year in Review</a>
+            </li>
+
+            <li class="nav-list-item">
+                <a class="nav-link" href="https://blog.twitter.com/engineering/en_us/topics/open-source.html" target="_blank">Blog</a>
+            </li>
+
+            <li class="nav-list-item list-end">
+                <a class="nav-link" href="https://github.com/twitter" target="_blank">GitHub</a>
+            </li>
+        </ul>
+    </nav>
 
 Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
 
