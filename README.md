@@ -9,7 +9,7 @@
             <p class="home-text">Twitter Open Source</p>
             <span id="caret" class="Icon Icon--caretDown"></span>
         </div>
-<ul class="nav-menu">
+        <ul class="nav-menu">
             <!-- This link only exists in mobile -->
             <li id="extra-mobile-link" class="nav-list-item">
                 <a class="nav-link" href="/">Twitter Open Source</a>
