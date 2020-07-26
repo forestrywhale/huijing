@@ -1,4 +1,4 @@
-    <nav>
+<nav>
         <div class="nav-title">
             <span class="Icon Icon--logo Icon--large"></span>
 
@@ -35,7 +35,7 @@
                 <a class="nav-link" href="https://github.com/twitter" target="_blank">GitHub</a>
             </li>
         </ul>
-    </nav>
+</nav>
 
 Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
 
