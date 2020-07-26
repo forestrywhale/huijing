@@ -1,3 +1,11 @@
+<li id="extra-mobile-link" class="nav-list-item">
+                <a class="nav-link" href="/">Twitter Open Source</a>
+</li>
+
+<li id="extra-mobile-link" class="nav-list-item">
+                <a class="nav-link" href="/">Twitter Open Source</a>
+</li>
+
 Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
 
 <a class="twitter-timeline" data-height="700px" href="https://twitter.com/Huijingwang91">Tweets by Huijing</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
