@@ -1,9 +1,9 @@
 <li id="extra-mobile-link" class="nav-list-item">
-                <a class="nav-link" href="/">Twitter Open Source</a>
+    <a class="nav-link" href="/">Twitter Open Source</a>
 </li>
 
 <li id="extra-mobile-link" class="nav-list-item">
-                <a class="nav-link" href="/">Twitter Open Source</a>
+    <a class="nav-link" href="https://github.com/kikyo91/Python-Gallery/blob/master/1-PCA%203D%20graph.ipynb">Twitter Open Source</a>
 </li>
 
 Your site is ready to be published at [Here](https://kikyo91.github.io/huijing/).
